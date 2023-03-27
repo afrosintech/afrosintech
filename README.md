@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![image](/images/background/afros-in-tech-living-space-zoom-background.png)
 <!--
 **afrosintech/afrosintech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
